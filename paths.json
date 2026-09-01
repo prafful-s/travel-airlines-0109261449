@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/vartikagupta/wknd-fly-adobe/language-masters/en:/",
+    "/content/vartikagupta/wknd-fly-adobe/language-masters/en/:/en/",
+    "/content/vartikagupta/wknd-fly-adobe/configuration:/.helix/config.json",
+    "/content/vartikagupta/wknd-fly-adobe/metadata:/metadata.json",
+    "/content/vartikagupta/wknd-fly-adobe/redirects:/redirects.json",
+    "/content/vartikagupta/wknd-fly-adobe/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/vartikagupta/wknd-fly-adobe/",
+    "/content/dam/vartikagupta/wknd-fly-adobe/"
   ]
 }
